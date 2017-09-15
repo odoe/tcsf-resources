@@ -1,4 +1,4 @@
-# Esri TC SF Hackathon Resources
+# Esri TechCrunch SF Hackathon Resources
 _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 
 - [Activate your account and credits](#activate-your-account-and-credits)
@@ -14,6 +14,9 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 3.	Click your name at the top right, click “Redeem Voucher”, then enter DISRUPTSF17 for 1000 credits
 
 ## See what's possible
+
+![Manhattan Preview Full](/images/manhattan-preview-full.png?raw=true)
+
 - [Esri + PubNub delivery tracking demo](https://github.com/Esri/pubnub-delivery-tracking-demo)
 - [Explore buildings in NYC](https://esri.github.io/Manhattan-skyscraper-explorer/)
 - [SF urban growth and demographics](https://coolmaps.esri.com/#5)
@@ -33,6 +36,9 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 - [Full API & SDK sample code and documentation](https://developers.arcgis.com/documentation/#sdks)
 
 ## Find cool datasets
+
+![Population Data](/images/population-data.png?raw=true)
+
 - SF Downtown buildings: [Viewer](https://sfgis-portal.sfgov.org/arcgis/home/webscene/viewer.html?layers=1fc011c6e82a46bfad429628d37c5175) and [REST endpoint](https://sfgis-portal.sfgov.org/srv/rest/services/Hosted/Downtown_textured3D_P2010_bldg/SceneServer/layers/0)
 - SF Downtown building shapes: [Viewer](https://sfgis-portal.sfgov.org/arcgis/home/webscene/viewer.html?layers=4c79dbab169d46f78cad35503659b899) and [REST endpoint](https://sfgis-portal.sfgov.org/srv/rest/services/Hosted/City_noTex_bldg3d_mpgz/SceneServer/layers/0)
 - SF City facilities: [Viewer](http://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fsfgis-svc.sfgov.org%2Farcgis%2Frest%2Fservices%2Fsfgis%2Fcity_facilities_on_sfgis_svc%2FFeatureServer%2F0&source=sd) and [REST endpoint](https://sfgis-svc.sfgov.org/arcgis/rest/services/sfgis/city_facilities_on_sfgis_svc/FeatureServer/0)
