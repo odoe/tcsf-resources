@@ -1,14 +1,14 @@
 # Esri TechCrunch SF Hackathon Resources
 _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 
-![Manhattan Preview](/images/manhattan-preview.png?raw=true)
-
 - [Activate your account and credits](#activate-your-account-and-credits)
 - [See what's possible](#see-whats-possible)
 - [Get started](#get-started)
 - [Find cool datasets](#find-cool-datasets)
 - [Use cool datasets](#use-cool-datasets)
 - [Explore global data and content](#explore-global-data-and-content)
+
+![Manhattan Preview](/images/manhattan-preview.png?raw=true)
 
 ## Activate your account and credits
 1.	Sign-up for a free developer account at <http://developers.arcgis.com>
