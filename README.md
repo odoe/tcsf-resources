@@ -15,7 +15,7 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 
 ## See what's possible
 
-![Manhattan Preview](/images/manhattan-preview.png?raw=true)
+![Manhattan Preview Full](/images/manhattan-preview-full.png?raw=true)
 
 - [Esri + PubNub delivery tracking demo](https://github.com/Esri/pubnub-delivery-tracking-demo)
 - [Explore buildings in NYC](https://esri.github.io/Manhattan-skyscraper-explorer/)
