@@ -8,14 +8,15 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 - [Use cool datasets](#use-cool-datasets)
 - [Explore global data and content](#explore-global-data-and-content)
 
-![Manhattan Preview](/images/manhattan-preview.png?raw=true)
-
 ## Activate your account and credits
 1.	Sign-up for a free developer account at <http://developers.arcgis.com>
 2.	Sign in to your account
 3.	Click your name at the top right, click “Redeem Voucher”, then enter DISRUPTSF17 for 1000 credits
 
 ## See what's possible
+
+![Manhattan Preview](/images/manhattan-preview.png?raw=true)
+
 - [Esri + PubNub delivery tracking demo](https://github.com/Esri/pubnub-delivery-tracking-demo)
 - [Explore buildings in NYC](https://esri.github.io/Manhattan-skyscraper-explorer/)
 - [SF urban growth and demographics](https://coolmaps.esri.com/#5)
