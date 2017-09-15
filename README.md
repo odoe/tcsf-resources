@@ -1,5 +1,7 @@
-# Esri TC SF Hackathon Resources
+# Esri TechCrunch SF Hackathon Resources
 _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
+
+![Manhattan Preview](/images/manhattan-preview.png?raw=true)
 
 - [Activate your account and credits](#activate-your-account-and-credits)
 - [See what's possible](#see-whats-possible)
