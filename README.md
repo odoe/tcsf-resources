@@ -18,8 +18,9 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 
 ![Manhattan Preview Full](/images/manhattan-preview-full.png?raw=true)
 
-- [Visualize the US River Network](https://github.com/richiecarmichael/Esri-Hydro-Hierarchy)
-- [Baltimore Flood Explorer](https://maps.esri.com/rc/water/index.html)
+- [Hurricane Irma Maps and Apps](http://disasterresponse.maps.arcgis.com/apps/MapSeries/index.html?appid=d4d864cec7b8488b9936ccfcd3d0a8e2) __NEW__
+- [Visualize the US River Network](https://github.com/richiecarmichael/Esri-Hydro-Hierarchy) __NEW__
+- [Baltimore Flood Explorer](https://maps.esri.com/rc/water/index.html) __NEW__
 - [Esri + PubNub delivery tracking demo](https://github.com/Esri/pubnub-delivery-tracking-demo)
 - [Explore buildings in NYC](https://esri.github.io/Manhattan-skyscraper-explorer/)
 - [SF urban growth and demographics](https://coolmaps.esri.com/#5)
@@ -39,8 +40,8 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 - [Full API & SDK sample code and documentation](https://developers.arcgis.com/documentation/#sdks)
 
 ## Use cool services
-- [Trace water downstream from a given location](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
-- [Evaluate watersheds and where water will go](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
+- [Trace water downstream from a given location](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm) __NEW__
+- [Evaluate watersheds and where water will go](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm) __NEW__
 
 ## Find cool datasets
 
