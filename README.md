@@ -47,7 +47,7 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 
 ![Population Data](/images/population-data.png?raw=true)
 
-- Florida Waze Data: [Viewer](http://disasterresponse.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=a19ecdb41c7f418789a29b0f7b97c6cb) and [REST endpoint](https://services.arcgis.com/DO4gTjwJVIJ7O9Ca/arcgis/rest/services/Waze_Alerts_for_Hurricane_Irma/FeatureServer) <kbd>new!</kbd>
+- Florida Waze Data: [Viewer](http://disasterresponse.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=a19ecdb41c7f418789a29b0f7b97c6cb) and [REST endpoint](https://services.arcgis.com/DO4gTjwJVIJ7O9Ca/arcgis/rest/services/Waze_Alerts_for_Hurricane_Irma/FeatureServer/0) <kbd>new!</kbd>
 - Florida Power Outages: [Viewer](http://www.arcgis.com/home/webmap/viewer.html?url=https://services.arcgis.com/3wFbqsFPLeKqOlIK/ArcGIS/rest/services/Power_Outage_View_Irma/FeatureServer/0/&source=sd) and  [REST endpoint](https://services.arcgis.com/3wFbqsFPLeKqOlIK/ArcGIS/rest/services/Power_Outage_View_Irma/FeatureServer/0/) <kbd>new!</kbd>
 - SF Downtown buildings: [Viewer](https://sfgis-portal.sfgov.org/arcgis/home/webscene/viewer.html?layers=1fc011c6e82a46bfad429628d37c5175) and [REST endpoint](https://sfgis-portal.sfgov.org/srv/rest/services/Hosted/Downtown_textured3D_P2010_bldg/SceneServer/layers/0)
 - SF Downtown building shapes: [Viewer](https://sfgis-portal.sfgov.org/arcgis/home/webscene/viewer.html?layers=4c79dbab169d46f78cad35503659b899) and [REST endpoint](https://sfgis-portal.sfgov.org/srv/rest/services/Hosted/City_noTex_bldg3d_mpgz/SceneServer/layers/0)
