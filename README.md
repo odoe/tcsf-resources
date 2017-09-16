@@ -4,6 +4,7 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 - [Activate your account and credits](#activate-your-account-and-credits)
 - [See what's possible](#see-whats-possible)
 - [Get started](#get-started)
+- [Use cool services](#use-cool-services)
 - [Find cool datasets](#find-cool-datasets)
 - [Use cool datasets](#use-cool-datasets)
 - [Explore global data and content](#explore-global-data-and-content)
@@ -17,6 +18,8 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 
 ![Manhattan Preview Full](/images/manhattan-preview-full.png?raw=true)
 
+- [Visualize the US River Network](https://github.com/richiecarmichael/Esri-Hydro-Hierarchy)
+- [Baltimore Flood Explorer](https://maps.esri.com/rc/water/index.html)
 - [Esri + PubNub delivery tracking demo](https://github.com/Esri/pubnub-delivery-tracking-demo)
 - [Explore buildings in NYC](https://esri.github.io/Manhattan-skyscraper-explorer/)
 - [SF urban growth and demographics](https://coolmaps.esri.com/#5)
@@ -34,6 +37,10 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
   - [iOS](https://developers.arcgis.com/labs/develop/#ios)
   - [And more!](https://developers.arcgis.com/labs/develop/index.html)
 - [Full API & SDK sample code and documentation](https://developers.arcgis.com/documentation/#sdks)
+
+## Use cool services
+- [Trace water downstream from a given location](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
+- [Evaluate watersheds and see where water go](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
 
 ## Find cool datasets
 
