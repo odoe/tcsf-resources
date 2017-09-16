@@ -40,7 +40,7 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 
 ## Use cool services
 - [Trace water downstream from a given location](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
-- [Evaluate watersheds and see where water go](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
+- [Evaluate watersheds and where water will go](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
 
 ## Find cool datasets
 
