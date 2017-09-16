@@ -5,9 +5,9 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 - [See what's possible](#see-whats-possible)
 - [Get started](#get-started)
 - [Use cool services](#use-cool-services)
-- [Find cool datasets](#find-cool-datasets)
+- [Cool datasets](#cool-datasets)
 - [Use cool datasets](#use-cool-datasets)
-- [Explore global data and content](#explore-global-data-and-content)
+- [Explore global datasets](#explore-global-datasets)
 
 ## Activate your account and credits
 1.	Sign-up for a free developer account at <http://developers.arcgis.com>
@@ -43,10 +43,12 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 - [Trace water downstream from a given location](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm) <kbd>new!</kbd>
 - [Evaluate watersheds and where water will go](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm) <kbd>new!</kbd>
 
-## Find cool datasets
+## Cool datasets
 
 ![Population Data](/images/population-data.png?raw=true)
 
+- Florida Waze Data: [Viewer](http://disasterresponse.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=a19ecdb41c7f418789a29b0f7b97c6cb) and [REST endpoint](https://services.arcgis.com/DO4gTjwJVIJ7O9Ca/arcgis/rest/services/Waze_Alerts_for_Hurricane_Irma/FeatureServer/0) <kbd>new!</kbd>
+- Florida Power Outages: [Viewer](http://www.arcgis.com/home/webmap/viewer.html?url=https://services.arcgis.com/3wFbqsFPLeKqOlIK/ArcGIS/rest/services/Power_Outage_View_Irma/FeatureServer/0/&source=sd) and  [REST endpoint](https://services.arcgis.com/3wFbqsFPLeKqOlIK/ArcGIS/rest/services/Power_Outage_View_Irma/FeatureServer/0/) <kbd>new!</kbd>
 - SF Downtown buildings: [Viewer](https://sfgis-portal.sfgov.org/arcgis/home/webscene/viewer.html?layers=1fc011c6e82a46bfad429628d37c5175) and [REST endpoint](https://sfgis-portal.sfgov.org/srv/rest/services/Hosted/Downtown_textured3D_P2010_bldg/SceneServer/layers/0)
 - SF Downtown building shapes: [Viewer](https://sfgis-portal.sfgov.org/arcgis/home/webscene/viewer.html?layers=4c79dbab169d46f78cad35503659b899) and [REST endpoint](https://sfgis-portal.sfgov.org/srv/rest/services/Hosted/City_noTex_bldg3d_mpgz/SceneServer/layers/0)
 - SF City facilities: [Viewer](http://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fsfgis-svc.sfgov.org%2Farcgis%2Frest%2Fservices%2Fsfgis%2Fcity_facilities_on_sfgis_svc%2FFeatureServer%2F0&source=sd) and [REST endpoint](https://sfgis-svc.sfgov.org/arcgis/rest/services/sfgis/city_facilities_on_sfgis_svc/FeatureServer/0)
@@ -59,12 +61,13 @@ _Also find Esri and OS projects on [Github](https://esri.github.io/)!_
 _Note, we call datasets "layers"--these are just spatial data tables with metadata, rendering info, and operations exposed as a REST endpoint. The data table rows in each "layer" are called "features" and "features" have "attributes"_
 
 ## Use cool datasets
-1. [Create a Web Map or 3d Scene](https://developers.arcgis.com/labs/design/index.html) to aggregate and stylize the datasets and add them to an app with [just an item id](https://developers.arcgis.com/labs/develop/index.html) (see "Display a web map") __OR__
-2. [Add the data directly](https://developers.arcgis.com/labs/develop/index.html) (see "Create a 2d Map/3d Scene with a layer")
+1. [Add the data directly](https://developers.arcgis.com/labs/develop/index.html) (see "Create a 2d Map/3d Scene with a layer"). In Javascript, [2D](https://gist.github.com/mpayson/3c3c1248ab3ee9dd0187c35babed7832) & [3D](https://gist.github.com/mpayson/792ecbf92391e983df4de722275f08e7) <kbd>new!</kbd> __OR__
+2. [Create a Web Map or 3d Scene](https://developers.arcgis.com/labs/design/index.html) to aggregate and stylize the datasets and add them to an app with [just an item id](https://developers.arcgis.com/labs/develop/index.html) (see "Display a web map") 
+
 
 _Note, if there isn't a tutorial here, there's also __sample code__ for [each of the SDKs](https://developers.arcgis.com/documentation/)--just search for "layers"_
 
-## Explore global data and content
+## Explore global datasets
 - [Overview of ready to use content](http://www.arcgis.com/features/maps/index.html)
 - [Open data hub](http://hub.arcgis.com/pages/open-data)
 - [Living Atlas of the World](https://livingatlas.arcgis.com/en/#s=0)
